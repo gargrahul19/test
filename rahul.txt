@@ -1,0 +1,7 @@
+
+u can browse other GitHub users’ projects, and even download copies for yourself to alter and learn from. Other users can do the same with your public projects, and even spot errors and suggest fixes. Either way, no data is lost because Git saves a “snapshot” of every change.
+
+While it’s possible to use GitHub without learning Git, there’s a big difference between using and understanding. Before I figured out Git I could use GitHub, but I didn’t really understand why. In this tutorial, we’re going to learn to use Git on the command line.
+Words People Use When They Talk About Git
+
+In this tutorial, there are a few words I’m going to use repeatedly, none of which I'd heard before I started learning. Here’s the big ones:
